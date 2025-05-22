@@ -93,7 +93,7 @@ export default function Portfolio() {
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold mb-4">Our Portfolio & Case Studies</h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Explore how we've helped our clients grow with our tailored digital solutions.
+            Explore how we have helped our clients grow with our tailored digital solutions.
           </p>
         </div>
 

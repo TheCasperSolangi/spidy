@@ -93,10 +93,10 @@ export default function About() {
             </div>
             
             <p className="text-gray-600">
-              NexusTech is a forward-thinking software development company dedicated to creating innovative digital solutions that help businesses succeed in today's competitive landscape.
+              NexusTech is a forward-thinking software development company dedicated to creating innovative digital solutions that help businesses succeed in todays competitive landscape.
             </p>
             <p className="text-gray-600">
-              Founded in 2015, we've grown from a small team of passionate developers to a full-service software house with expertise across multiple domains and technologies.
+              Founded in 2015, we have grown from a small team of passionate developers to a full-service software house with expertise across multiple domains and technologies.
             </p>
             
             <div className="grid grid-cols-2 gap-4">

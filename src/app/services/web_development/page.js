@@ -703,7 +703,7 @@ export default function WebDevelopmentService() {
                       <Badge className="mb-4 px-3 py-1 bg-primary/10 text-primary border-none">Results</Badge>
                       <h2 className="text-3xl md:text-4xl font-bold mb-6">Featured Case Studies</h2>
                       <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                        Take a look at some of our recent web development projects and the results they've achieved.
+                        Take a look at some of our recent web development projects and the results they have achieved.
                       </p>
                     </div>
                     
@@ -1469,7 +1469,7 @@ export default function WebDevelopmentService() {
                     
                     <div className="mt-16 text-center">
                       <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
-                        Don't see a package that fits your needs? We offer completely custom solutions tailored to your specific requirements and budget.
+                        Dont see a package that fits your needs? We offer completely custom solutions tailored to your specific requirements and budget.
                       </p>
                       <Button variant="outline" size="lg" className="shadow-sm hover:shadow-md border-slate-200 hover:border-primary/30">
                         <span>Request Custom Quote</span>
@@ -1656,7 +1656,7 @@ export default function WebDevelopmentService() {
               <Badge className="mb-4 px-3 py-1 bg-primary/10 text-primary border-none">Testimonials</Badge>
               <h2 className="text-3xl md:text-4xl font-bold mb-6">What Our Clients Say</h2>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Don't just take our word for it. Here's what our clients have to say about working with us.
+                Dont just take our word for it. Heres what our clients have to say about working with us.
               </p>
             </div>
             
@@ -1668,7 +1668,7 @@ export default function WebDevelopmentService() {
                 } transition-all duration-500`}
                 style={{ transitionDelay: '0ms' }}
               >
-                <div className="absolute -top-5 left-8 text-6xl text-primary/20">"</div>
+                <div className="absolute -top-5 left-8 text-6xl text-primary/20"></div>
                 <div className="relative z-10">
                   <div className="flex items-center gap-1 mb-4">
                     {[1, 2, 3, 4, 5].map((star) => (
@@ -1676,7 +1676,7 @@ export default function WebDevelopmentService() {
                     ))}
                   </div>
                   <p className="text-muted-foreground italic mb-6">
-                    "The team delivered an exceptional e-commerce website that exceeded our expectations. Sales have increased by 45% since launch, and the user experience is fantastic."
+                    The team delivered an exceptional e-commerce website that exceeded our expectations. Sales have increased by 45% since launch, and the user experience is fantastic.
                   </p>
                   <div className="flex items-center gap-4">
                    {/* Author Info */}
@@ -1792,10 +1792,10 @@ export default function WebDevelopmentService() {
           
           <div className="container mx-auto px-4 md:px-8 relative z-10">
             <div className="max-w-3xl mx-auto text-center">
-              <Badge className="mb-6 px-3 py-1.5 bg-white/20 text-white border-none backdrop-blur-sm">Let's Work Together</Badge>
+              <Badge className="mb-6 px-3 py-1.5 bg-white/20 text-white border-none backdrop-blur-sm">Lets Work Together</Badge>
               <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white">Ready to Build Your Dream Website?</h2>
               <p className="text-xl text-white/80 mb-10">
-                Let's discuss your project and create a custom solution that meets your business needs and exceeds your expectations.
+                Lets discuss your project and create a custom solution that meets your business needs and exceeds your expectations.
               </p>
               <div className="flex flex-col sm:flex-row gap-5 justify-center">
                 <Button size="lg" >
