@@ -90,7 +90,7 @@ export default function Contact() {
         },
         body: JSON.stringify({
           from: formData.email,
-          to: formData.email,
+          to: "naveeddsolangi@gmail.com",
           subject: `New Contact Form Submission: ${formData.subject}`,
           text: `You've received a new message from ${formData.firstName} ${formData.lastName} (${formData.email}):
           
