@@ -169,7 +169,7 @@ export default function WebDevelopmentService() {
   const packages = [
     {
       name: "Basic",
-      price: "$2,500",
+      price: "$150",
       description: "Perfect for small businesses just getting started online",
       features: [
         "Responsive website (up to 5 pages)",
@@ -189,7 +189,7 @@ export default function WebDevelopmentService() {
     },
     {
       name: "Professional",
-      price: "$5,000",
+      price: "$250",
       description: "Comprehensive solution for established businesses",
       features: [
         "Responsive website (up to 10 pages)",
